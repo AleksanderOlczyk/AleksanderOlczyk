@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Aleksander Olczyk</h1>
-<h3 align="center">Second-year student of Computer Science at PJATK University</h3>
+<h3 align="center">Third-year student of Computer Science at PJATK University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksanderolczyk&label=Profile%20views&color=0e75b6&style=flat" alt="aleksanderolczyk" /> </p>
 
