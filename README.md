@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksanderolczyk&label=Profile%20views&color=0e75b6&style=flat" alt="aleksanderolczyk" /> </p>
 
 - 🎓 **Graduated with a 5.0 (A) on my thesis defense**
-- 📈 **Achieved a cumulative GPA of 4.5 during my studies**
+- 🏅 **Graduated with a Final Grade of 4.5**
 - 💻 I’m currently working as a Full Stack Developer
 - 📚 Some of my projects created during university are available at [https://github.com/AleksanderOlczyk](https://github.com/AleksanderOlczyk)
 
